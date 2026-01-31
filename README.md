@@ -1,12 +1,12 @@
 <h1 align="center">Ramzan Naveed</h1>
 
 <p align="center">
-Machine Learning Engineer | Data Scientist | Healthcare AI Specialist | Machine Learning Researcher
+Machine Learning Engineer | Data Scientist | HealthCare AI Specialist | Machine Learning Researcher | AWS Certified Machine Learning Engineer
 </p>
 
 <p align="center">
 Designing clinically focused AI systems.  
-Building deep learning models with CNNs and computer vision.  
+Building deep learning models for medical imaging.  
 Deploying reliable ML pipelines on AWS.
 </p>
 
@@ -26,21 +26,21 @@ Deploying reliable ML pipelines on AWS.
 
 Healthcare focused Machine Learning Engineer with strong expertise in deep learning,
 computer vision, and data science.
-Experienced in building end to end AI systems from raw data
+Experienced in building end to end medical AI systems from raw clinical data
 to validated and deployable models.
-Focused on accuracy, interpretability, safety, and scalable deployment.
+Focused on model accuracy, interpretability, patient safety, and regulatory awareness.
 
 ---
 
 ## Healthcare AI expertise
 
-- Machine learning and deep learning  
-- CNN based computer vision systems  
-- Data preprocessing and validation  
-- Model evaluation and experimentation  
-- Bias reduction and leakage prevention  
-- Decision support AI systems  
-- Cloud based ML workflows on AWS  
+- Medical image analysis and computer vision  
+- Deep learning for disease detection  
+- Clinical data preprocessing and validation  
+- Model evaluation using medical metrics  
+- Bias reduction and data leakage prevention  
+- AI systems for decision support  
+- Cloud based healthcare ML on AWS  
 
 ---
 
@@ -48,8 +48,8 @@ Focused on accuracy, interpretability, safety, and scalable deployment.
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/R-111111?style=flat&logo=r" />
   <img src="https://img.shields.io/badge/SQL-111111?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/R-111111?style=flat&logo=gnu-bash" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ Focused on accuracy, interpretability, safety, and scalable deployment.
 
 ---
 
-## Cloud and MLOps
+## Cloud and MLOps on AWS
 
 <p>
   <img src="https://img.shields.io/badge/AWS-111111?style=flat&logo=amazonaws" />
@@ -76,39 +76,131 @@ Focused on accuracy, interpretability, safety, and scalable deployment.
   <img src="https://img.shields.io/badge/EC2-111111?style=flat" />
   <img src="https://img.shields.io/badge/SageMaker-111111?style=flat" />
   <img src="https://img.shields.io/badge/Lambda-111111?style=flat" />
+  <img src="https://img.shields.io/badge/RDS-111111?style=flat" />
 </p>
+
+AWS usage
+- Secure medical dataset storage and versioning in S3  
+- Model training and experimentation using SageMaker  
+- Scalable inference endpoints  
+- Backend compute using EC2 and Lambda  
+- Metadata, predictions, and logs stored in RDS  
 
 ---
 
-## GitHub contribution graph
+## Architecture diagrams description
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramzan934&theme=github-dark&hide_border=true" />
-</p>
+### Medical imaging AI architecture
+
+Data ingestion  
+- MRI or dermoscopic images uploaded to secure storage  
+
+Preprocessing layer  
+- Image normalization  
+- Noise reduction  
+- Resizing and augmentation  
+
+Model layer  
+- CNN based deep learning architecture  
+- Feature extraction using convolutional blocks  
+- Classification layers for disease prediction  
+
+Evaluation layer  
+- Medical metrics validation  
+- Sensitivity and specificity analysis  
+
+Deployment layer  
+- Model hosted on AWS SageMaker  
+- Inference via REST endpoints  
+
+Monitoring layer  
+- Prediction logging  
+- Data drift observation  
 
 ---
 
+## MLOps and CI CD pipeline
+
+Model lifecycle workflow
+
+1. Data versioning using S3  
+2. Experiment tracking and model training  
+3. Automated evaluation and metric validation  
+4. Model artifact storage  
+5. Deployment to staging environment  
+6. Validation on unseen medical data  
+7. Production deployment using SageMaker endpoints  
+8. Continuous monitoring and retraining triggers  
+
+CI CD components
+- GitHub for source control  
+- Automated training scripts  
+- Model version control  
+- Reproducible pipelines  
+- Safe rollout of updated models  
+
+---
+
+## Evaluation metrics for healthcare AI
+
+- Accuracy  
+- Precision and Recall  
+- F1 Score  
+- Sensitivity and Specificity  
+- Confusion Matrix  
+- ROC AUC  
+
+---
+
+## Key healthcare AI projects
+
+### Brain Tumor Detection using Deep Learning
+- MRI image based classification system  
+- CNN architecture for tumor detection  
+- Image preprocessing and augmentation  
+- Focus on early stage diagnosis support  
+- Evaluated using clinical classification metrics  
+
+Technologies  
+- Python, TensorFlow, Keras, OpenCV  
+
+---
+
+### Skin Disease Detection using CNN
+- Deep learning based skin disease classifier  
+- Robust augmentation to handle dataset imbalance  
+- CNN feature extraction and prediction  
+- Evaluation aligned with medical use cases  
+
+Technologies  
+- Python, TensorFlow, Keras  
+
+---
+
+ 
 ## GitHub analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramzan934&show_icons=true&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzan934&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ramzan934&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzan934&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## Featured work
+## Contribution streak
 
-Pin your main repositories directly from GitHub profile:
-- Brain Tumor Detection using CNN
-- Skin Disease Detection using Deep Learning
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ramzan934&hide_border=true" />
+</p>
 
+---
 
+## Current focus
 
-GitHub native pins are stable and preferred by recruiters.
+- Medical imaging and diagnostic AI  
+- Reliable deep learning systems  
+- MLOps for healthcare models  
+- Cloud based ML pipelines on AWS  
 
 ---
 
@@ -117,15 +209,28 @@ GitHub native pins are stable and preferred by recruiters.
 - Email: ramzannaveed659@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/ramzannaveed65  
 - Location: Pakistan  
-- Open to Healthcare AI, ML Engineer, and Research roles  
+- Open to healthcare AI, ML engineer, and data science roles  
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,tensorflow,pytorch,opencv,sklearn,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,aws,tensorflow,pytorch,opencv,sklearn,postgres,jupyter" />
 </p>
-
 
  
   
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
