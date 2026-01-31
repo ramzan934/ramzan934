@@ -1,7 +1,7 @@
 <h1 align="center">Ramzan Naveed</h1>
 
 <p align="center">
-Healthcare Machine Learning Engineer | Data Scientist | Medical AI
+Machine Learning Engineer | Data Scientist | Healthcare AI Specialist | Machine Learning Researcher | AWS Certified Machine Learning Engineer
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Focused on model accuracy, interpretability, patient safety, and regulatory awar
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/SQL-111111?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Bash-111111?style=flat&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/R-111111?style=flat&logo=gnu-bash" />
 </p>
 
 ---
