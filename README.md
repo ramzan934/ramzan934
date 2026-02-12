@@ -1,12 +1,12 @@
 <!-- ========================================================= -->
-<!--                    BOLD AI ENGINEER PROFILE              -->
+<!--                  ML ENGINEER PROFILE                     -->
 <!-- ========================================================= -->
 
 <h1 align="center">Ramzan Naveed</h1>
-<h3 align="center">AI Engineer • Machine Learning Architect • Scalable Intelligence Builder</h3>
+<h3 align="center">Machine Learning Engineer • Data Scientist • Machine Learning Researcher</h3>
 
 <p align="center">
-<strong>I turn complex data into production-grade AI systems that scale, adapt, and deliver measurable impact.</strong>
+<strong>Transforming complex data into scalable, production-grade machine learning systems.</strong>
 </p>
 
 <p align="center">
@@ -22,51 +22,51 @@
 
 # 🚀 WHAT I DO
 
-I design, train, optimize, and deploy AI systems end-to-end.
+I design, train, optimize, and deploy end-to-end machine learning systems.
 
 From raw data → feature engineering → experimentation → scalable APIs → cloud deployment → monitoring.
 
-I don’t just build models.  
-I build reliable AI infrastructure.
+I focus on building reliable, reproducible, and performance-optimized AI systems that create measurable impact.
 
 ---
 
-# 🔥 CORE STRENGTHS
+# 🔥 CORE EXPERTISE
 
 ✔ Machine Learning System Design  
 ✔ Deep Learning & Transformer Architectures  
-✔ LLM & RAG Systems  
-✔ Recommendation & Ranking Engines  
-✔ Production AI Deployment  
-✔ Inference Optimization & Model Compression  
-✔ Research-to-Production Execution  
+✔ Statistical Modeling & Predictive Analytics  
+✔ Natural Language Processing  
+✔ Recommendation & Ranking Systems  
+✔ Time-Series Forecasting  
+✔ Research-to-Production ML Pipelines  
 
 ---
 
 # 🧠 FEATURED SYSTEMS
 
 ## Intelligent Resume Ranking Engine  
-Transformer-based semantic scoring system using embedding similarity and ranking optimization.
+Transformer-based semantic scoring platform using embedding similarity and ranking optimization.
 
-## Document Intelligence Platform  
-OCR + layout modeling + entity recognition for scalable structured data extraction.
+## Document Intelligence AI  
+OCR + layout modeling + named entity recognition for scalable structured extraction.
 
-## Hybrid Recommendation Engine  
-Collaborative filtering + deep representation learning for adaptive personalization systems.
+## Hybrid Recommendation Platform  
+Collaborative filtering combined with deep representation learning for adaptive personalization.
 
 ---
 
-# 🏗 HOW I BUILD AI SYSTEMS
+# 🏗 HOW I BUILD ML SYSTEMS
 
 • Data ingestion & validation pipelines  
-• Feature engineering automation  
+• Automated feature engineering workflows  
 • Distributed training orchestration  
 • Experiment tracking & reproducibility  
+• Hyperparameter optimization  
 • Model registry & CI/CD integration  
 • Low-latency inference APIs  
 • Monitoring, drift detection & retraining  
 
-AI is complete only when it is deployed, observable, and scalable.
+Machine learning is not complete until it is deployed, observable, and scalable.
 
 ---
 
@@ -81,45 +81,32 @@ Advanced capabilities:
 - Transformer optimization  
 - Embedding & vector search systems  
 - Retrieval-Augmented Generation (RAG)  
-- Gradient boosting (XGBoost, LightGBM)  
-- Quantization & distillation  
-- GPU inference tuning  
-
----
-
-# 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramzannaveed65&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzannaveed65&layout=compact&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramzannaveed65&hide_border=true"/>
-</p>
+- Gradient boosting (XGBoost, LightGBM, CatBoost)  
+- Model compression & quantization  
+- GPU inference optimization  
 
 ---
 
 # 🎯 CURRENT FOCUS
 
-• Large Language Model Infrastructure  
-• Autonomous AI Agents  
+• Large Language Models  
+• Efficient Deep Learning Architectures  
 • Scalable ML APIs  
-• Cloud-native AI systems  
-• Performance-optimized inference pipelines  
+• Research-driven model optimization  
+• Cloud-native AI deployment  
 
 ---
 
 # 💼 WHAT I BRING TO A TEAM
 
-- Ownership mindset  
-- Strong systems architecture thinking  
-- Production reliability focus  
-- Performance optimization expertise  
-- Clear documentation & reproducible workflows  
-- Ability to move from research prototype to deployed product  
+- Strong systems thinking  
+- Production-focused ML mindset  
+- Research-backed experimentation  
+- Clean, maintainable code practices  
+- Performance and scalability awareness  
+- Clear documentation & reproducibility  
 
-I think in systems, not scripts.
+I think in systems, not notebooks.
 
 ---
 
@@ -127,20 +114,16 @@ I think in systems, not scripts.
 
 Actively exploring:
 
-• Machine Learning Engineer  
-• AI Engineer (LLM / NLP)  
-• Applied ML Roles  
-• Research-Oriented AI Teams  
-• International Remote Positions  
+• Machine Learning Engineer roles  
+• Data Scientist positions  
+• Applied AI / NLP roles  
+• Research-oriented ML teams  
+• International remote opportunities  
 
 📩 ramzannaveed659@gmail.com  
 🔗 https://www.linkedin.com/in/ramzannaveed65  
 
----
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ramzannaveed65&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
 
 
 
