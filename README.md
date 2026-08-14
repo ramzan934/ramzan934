@@ -35,7 +35,7 @@ As an **AI/ML Engineer & Healthcare AI Specialist**, I focus on building high-th
 
 ---
 
-# ⚙️ COMPLETE TECHNICAL SKILLS
+# ⚙️ TECHNICAL SKILLS
 
 ### 🤖 Generative & Agentic AI
 `Generative AI` • `Agentic AI Systems` • `Retrieval-Augmented Generation (RAG)` • `Autonomous Agents` • `LangChain` • `LlamaIndex` • `LangGraph` • `AutoGen` • `Cohere API` • `NeuralSeek` • `Prompt Engineering` • `Fine-Tuning (LoRA, QLoRA)` • `Quantization`
@@ -95,19 +95,6 @@ I design, train, and deploy machine learning architectures using a production-fi
 - 📜 **Maths for Machine Learning Specialization** – Imperial College London  
 - 📜 **IBM Certified ML Engineer** & **SAS Certified ML Engineer**  
 - 📜 **Ethical AI (Cambridge)** & **Applied ML (Alberta ML Institute)**  
-
----
-
-# 📊 TECH STACK & GITHUB STATS
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,fastapi,docker,aws,gcp,postgres,git,github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramzan934&show_icons=true&theme=dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzan934&layout=compact&theme=dark" width="48%" />
-</p>
 
 ---
 
