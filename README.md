@@ -84,7 +84,45 @@ As an **AI/ML Engineer & Healthcare AI Specialist**, I focus on building high-th
 
 # 🏗️ HOW I BUILD ML SYSTEMS
 
+I design, train, and deploy machine learning architectures using a production-first mindset—ensuring scalability, reproducibility, low-latency inference, and continuous monitoring.
 
+# 🏆 HONORS, CERTIFICATIONS & LEADERSHIP
+
+- 🥇 **Top ML Intern Award** – 10Pearls Pakistan  
+- 🏆 **Hackathon Winner** – Ghulam Ishaq Khan Institute (GIKI)  
+- ⭐ **Best Student of the Year** – Misali School  
+- 📜 **PG Machine Learning Diploma** – University of Texas at Austin  
+- 📜 **Maths for Machine Learning Specialization** – Imperial College London  
+- 📜 **IBM Certified ML Engineer** & **SAS Certified ML Engineer**  
+- 📜 **Ethical AI (Cambridge)** & **Applied ML (Alberta ML Institute)**  
+
+---
+
+# 📊 TECH STACK & GITHUB STATS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,fastapi,docker,aws,gcp,postgres,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramzan934&show_icons=true&theme=dark&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramzan934&layout=compact&theme=dark" width="48%" />
+</p>
+
+---
+
+# 🤝 OPEN TO GLOBAL OPPORTUNITIES
+
+Actively exploring high-impact roles in:
+- **Machine Learning Engineer / AI Systems Architect**
+- **Data Scientist / Predictive Modeling Specialist**
+- **Healthcare AI / Biomedical Data Researcher**
+- **Computer Vision & GenAI Specialist**
+- **International Remote & On-Site Positions**
+
+📩 **Direct Email:** [ramzannaveed659@gmail.com](mailto:ramzannaveed659@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/ramzannaveed65](https://www.linkedin.com/in/ramzannaveed65)  
+📍 **Base Location:** Lahore, Pakistan *(Open to Relocation)*
 
 
 
